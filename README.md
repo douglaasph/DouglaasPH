@@ -45,26 +45,12 @@ Na inteligência artificial, cuido do ciclo completo: do pré-processamento de d
 
 
 <img 
-  align='left'
-  width='30px'
-  style='padding-right: 10px;'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
-/>
-
-<img 
   align='left' 
   width='30px'
   style='padding-right: 10px;'
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-<img 
-  align='left' 
-  width='30px'
-  style='padding-right: 10px;'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
-/>
 
 <img 
   align='left' 
@@ -116,5 +102,61 @@ Na inteligência artificial, cuido do ciclo completo: do pré-processamento de d
   align='left' 
   width='30px'
   style='padding-right: 10px;'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg"
+/>
+
+<img 
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />

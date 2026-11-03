@@ -1,10 +1,12 @@
 # 👨‍💻 Douglas Phelipe
 
-Sou Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas, com formação prevista para 2027.1.
+Sou Desenvolvedor Full Stack e pesquisador em iniciação tecnológica (PIBITI), estudante de Análise e Desenvolvimento de Sistemas no IFPE Campus Jaboatão, com formação prevista para 2027.1. 
 
-Tenho experiência em Java 8+ com Spring Boot, JUnit e Mockito, e JavaScript/TypeScript com Angular ou React, desenvolvendo APIs REST e aplicações web. Tenho experiência com PostgreSQL e MySQL, além de práticas como DDD, TDD, Clean Code, SOLID, Design Patterns, e conhecimento em MVC, Arquitetura Hexagonal e Microsserviços. Também possuo experiência com serviços de mensageria, como AWS SQS, AWS SNS, RabbitMQ e Apache Kafka.
+No desenvolvimento, tenho experiência com Java 8+ e Spring Boot, JUnit e Mockito, e com JavaScript/TypeScript em Angular e React, criando APIs REST seguras (JWT e OAuth2) e aplicações web com PostgreSQL e MySQL. Aplico DDD, TDD, Clean Code, SOLID e Design Patterns, e conheço MVC, Arquitetura Hexagonal e Microsserviços. Também trabalho com mensageria usando Apache Kafka, RabbitMQ, AWS SNS e AWS SQS.
 
-Possuo conhecimento em Terraform para infraestrutura como código (IaC) e AWS, além de certificações AWS Cloud Practitioner, AWS Developer Associate e AWS Solutions Architect Associate.
+Na nuvem, uso AWS, Terraform e Docker para provisionar infraestrutura como código, e sou certificado AWS Cloud Practitioner, Developer Associate e Solutions Architect Associate.
+
+Na inteligência artificial, cuido do ciclo completo: do pré-processamento de dados ao treinamento e avaliação de modelos de Machine Learning e Deep Learning (Scikit-learn, TensorFlow e Keras), até a integração em aplicações web e pipelines serverless. 
 
 <a href="https://douglaasph.github.io/portfolio/">Portfólio</a>
 
